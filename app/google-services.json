@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "971821963278",
+    "project_id": "anala-45c2d",
+    "storage_bucket": "anala-45c2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971821963278:android:91babea23fadf40ee3c45f",
+        "android_client_info": {
+          "package_name": "com.example.appanalytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971821963278-anp5dqg7tharpo8etjorei9aqs4b3ch6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvRzyL9Lc_JJ3Bn_Wq3Rl2SrLW78GP09w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971821963278-anp5dqg7tharpo8etjorei9aqs4b3ch6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
